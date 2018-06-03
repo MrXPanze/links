@@ -1,6 +1,6 @@
 package com.livrariashazam.dao;
 import com.livrariashazam.utils.Conexao;
-import com.livrariashzam.models.Livros;
+import com.livrariashazam.models.Livros;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
